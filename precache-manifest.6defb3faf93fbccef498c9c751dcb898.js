@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "fa1f99dc4c40e5a082e31222a2f2436e",
-    "url": "/home/static/media/AraJozoor-Regular.fa1f99dc.eot"
+    "revision": "289cda261d2a7d3e6e853b30e16d718a",
+    "url": "/home/static/media/AraJozoor-Regular.289cda26.ttf"
   },
   {
-    "revision": "21e0ea2805e0c6a8ecb2",
+    "revision": "d56e63df515bd5670bfc",
     "url": "/home/static/css/main.9b313a87.chunk.css"
   },
   {
@@ -20,20 +20,20 @@ self.__precacheManifest = [
     "url": "/home/static/js/2.72abacdd.chunk.js"
   },
   {
-    "revision": "289cda261d2a7d3e6e853b30e16d718a",
-    "url": "/home/static/media/AraJozoor-Regular.289cda26.ttf"
+    "revision": "b573015b8452e0f4eb977bbfb193f03f",
+    "url": "/home/static/media/AraJozoor-Regular.b573015b.woff"
   },
   {
     "revision": "f2b8b184ba39f851059aeada97db517b",
     "url": "/home/static/media/AraJozoor-Regular.f2b8b184.svg"
   },
   {
-    "revision": "b573015b8452e0f4eb977bbfb193f03f",
-    "url": "/home/static/media/AraJozoor-Regular.b573015b.woff"
+    "revision": "fa1f99dc4c40e5a082e31222a2f2436e",
+    "url": "/home/static/media/AraJozoor-Regular.fa1f99dc.eot"
   },
   {
-    "revision": "21e0ea2805e0c6a8ecb2",
-    "url": "/home/static/js/main.21e0ea28.chunk.js"
+    "revision": "d56e63df515bd5670bfc",
+    "url": "/home/static/js/main.d56e63df.chunk.js"
   },
   {
     "revision": "28157ec23ba997350570797d304ca708",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/home/static/css/2.f24519e3.chunk.css"
   },
   {
-    "revision": "e76a3b37dcf0c390435cd29cb49a5753",
+    "revision": "bb967c88d66025a1c6a354d51b0aa433",
     "url": "/home/index.html"
   }
 ];
